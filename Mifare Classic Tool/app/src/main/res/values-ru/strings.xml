@@ -144,8 +144,6 @@
     <string name="text_incr_decr_value_block">Вкл./выкл. Блок значений</string>
     <string name="text_increment">Увеличить</string>
     <string name="text_decrement">Уменьшить</string>
-    <!-- Has to be 32 chars long. The text should be centered. -->
-    <string name="text_identical_data">-----------Идентичный------------</string>
     <!-- Has to be 16 chars long. The text should be centered. -->
     <string name="text_invalid_data">--Недопустимые данные--</string>
     <string name="text_only_in_dump1">Сектор встречается только в дампе 1 (A)</string>

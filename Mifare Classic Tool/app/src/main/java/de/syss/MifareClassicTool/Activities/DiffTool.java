@@ -241,7 +241,7 @@ public class DiffTool extends BasicActivity {
                         // Set diff line for identical blocks.
                         diffIndex.setTextColor(Color.GREEN);
                         diffString = new StringBuilder(
-                                getString(R.string.text_identical_data));
+                                "--------------------------------");
                     } else {
                         diffString = new StringBuilder(
                                 "                                ");

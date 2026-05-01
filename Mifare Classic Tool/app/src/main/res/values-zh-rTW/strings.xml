@@ -158,8 +158,6 @@
     <string name="text_incr_decr_value_block">遞增/遞減數值區塊</string>
     <string name="text_increment">遞增</string>
     <string name="text_decrement">遞減</string>
-    <!-- Has to be 32 chars long. The text should be centered. -->
-    <string name="text_identical_data">-----------完全相同------------</string>
     <!-- Has to be 16 chars long. The text should be centered. -->
     <string name="text_invalid_data">---資料無效---</string>
     <string name="text_only_in_dump1">此磁區僅存在於傾印 1 (A)</string>

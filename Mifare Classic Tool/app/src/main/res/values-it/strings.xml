@@ -150,8 +150,6 @@
     <string name="text_incr_decr_value_block">Incr./Decr. Valore di un Blocco</string>
     <string name="text_increment">Incrementa</string>
     <string name="text_decrement">Decrement</string>
-    <!-- Has to be 32 chars long. The text should be centered. -->
-    <string name="text_identical_data">-----------Identico------------</string>
     <!-- Has to be 16 chars long. The text should be centered. -->
     <string name="text_invalid_data">-Dati NON Validi</string>
     <string name="text_only_in_dump1">Il settore è presente solo nel dump 1 (A)</string>

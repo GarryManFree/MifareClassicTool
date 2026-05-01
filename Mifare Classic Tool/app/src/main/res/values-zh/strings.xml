@@ -144,10 +144,6 @@
     <string name="text_incr_decr_value_block">增/减 值块</string>
     <string name="text_increment">增值</string>
     <string name="text_decrement">减值</string>
-
-    <!-- Has to be 32 chars long. The text should be centered. -->
-    <string name="text_identical_data">-------------相同-------------</string>
-
     <!-- Has to be 16 chars long. The text should be centered. -->
     <string name="text_invalid_data">------无效数据------</string>
     <string name="text_only_in_dump1">扇区只存在于转储1(A)</string>
